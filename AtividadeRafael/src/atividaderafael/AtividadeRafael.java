@@ -15,7 +15,7 @@ public class AtividadeRafael {
             int numero =x+1;
             System.out.println("Entre com a nota" + numero +": ");
             Notas[x] = scan.nextInt(); 
-       
+       ththrthrt
     }
     
 }
